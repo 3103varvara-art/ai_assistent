@@ -1,11 +1,11 @@
 # 🪟 ИИ-Ассистент для компании по установке окон
-Ссылка на проект в Телеграм t.me/Steklivsy_bot 
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform: Suvvy.ai](https://img.shields.io/badge/Platform-Suvvy.ai-4F46E5)](https://suvvy.ai/)
 [![LLM: Qwen](https://img.shields.io/badge/LLM-Qwen-FF6B35)](https://qwen.ai/)
 
 > Интеллектуальный чат-бот для автоматизации коммуникации с клиентами, консультаций по продукции и записи на замеры окон.
-
+Ссылка на проект в Телеграм  https://t.me/Steklivsy_bot
 ---
 
 ## 📋 Оглавление
